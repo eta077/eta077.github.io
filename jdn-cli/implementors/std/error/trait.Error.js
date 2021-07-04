@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["jdn_cli"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/error/trait.Error.html\" title=\"trait std::error::Error\">Error</a> for <a class=\"enum\" href=\"jdn_cli/enum.CliError.html\" title=\"enum jdn_cli::CliError\">CliError</a>","synthetic":false,"types":["jdn_cli::CliError"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

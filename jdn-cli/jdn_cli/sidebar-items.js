@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CliError","An enumeration of errors that can occur while executing a CLI command."]],"mod":[["manager","Defines a manager responsible for handling command line input and output."]],"trait":[["CliHandler","The trait that allows commands received from the command line interface to be translated and executed."]]});

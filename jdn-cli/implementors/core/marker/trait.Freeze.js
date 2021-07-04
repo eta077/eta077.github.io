@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["jdn_cli"] = [{"text":"impl&lt;R, W&gt; Freeze for <a class=\"struct\" href=\"jdn_cli/manager/struct.CliManager.html\" title=\"struct jdn_cli::manager::CliManager\">CliManager</a>&lt;R, W&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;R: Freeze,<br>&nbsp;&nbsp;&nbsp;&nbsp;W: Freeze,&nbsp;</span>","synthetic":true,"types":["jdn_cli::manager::CliManager"]},{"text":"impl Freeze for <a class=\"enum\" href=\"jdn_cli/enum.CliError.html\" title=\"enum jdn_cli::CliError\">CliError</a>","synthetic":true,"types":["jdn_cli::CliError"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

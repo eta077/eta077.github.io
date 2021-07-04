@@ -1,0 +1,35 @@
+body {
+    background-color: #333355;
+}
+
+h1 {
+    color: #d2d2d2;
+    text-align: center;
+}
+
+p {
+    color: #d2d2d2;
+}
+
+.description {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 5%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    border: 1px solid #d2d2d2;
+    text-align: center;
+    padding: 8px;
+}
+
+a {
+    color: #3e999f;
+}
